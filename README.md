@@ -1,21 +1,22 @@
 ## Hi I'm Dina Ragab 👋
--I'm student at O6U university
--I'm currently Learning Backend with .NET Core  
-- Currently building small practice projects
+- 🎓 I'm student at O6U university  
+- 🌱 I'm currently Learning Backend with .NET Core  
+- 🚀 Currently building small practice projects  
+  
 ### 💻 Languages & Tools  
 
-[<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40"/>](https://isocpp.org/) 
-[<img src="https://cdn.simpleicons.org/csharp/239120" width="40"/>](https://learn.microsoft.com/en-us/dotnet/csharp/) 
-[<img src="https://cdn.simpleicons.org/html5/E34F26" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[<img src="https://cdn.simpleicons.org/css3/1572B6" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="40"/>](https://www.microsoft.com/en-us/sql-server)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
+  
 
-### Contacts: 🌐 Connect with me  
+### 📫 Contacts  
 
-[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30"/>](https://www.linkedin.com/in/dina-ragab-7a263a298/) 
-[<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="30"/>](https://codeforces.com/profile/Dina.ragab) 
-[<img src="https://cdn.simpleicons.org/facebook/0866FF" width="30"/>](https://www.facebook.com/share/1BKMZVs7tg/) 
-[<img src="https://cdn.simpleicons.org/gmail/EA4335" width="30"/>](mailto:dinaragab982005@gmail.com)
+<a href="https://www.linkedin.com/in/dina-ragab-7a263a298/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>
+<a href="https://codeforces.com/profile/Dina.ragab"><img src="https://cdn.iconscout.com/icon/free/png-512/free-codeforces-3628695-3029920.png" width="30"/></a>
+<a href="https://www.facebook.com/share/1BKMZVs7tg/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30"/></a>
+<a href="mailto:dinaragab982005@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30"/></a>
 
 <!--
 **DinaRagab98/DinaRagab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
