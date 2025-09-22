@@ -16,7 +16,7 @@
 
 ### 📫 Contacts  
 <p align="center">
-  <a href="https://www.linkedin.com/in/dina-ragab-7a263a298/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a>
+  <a href="www.linkedin.com/in/dinaragab98"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a>
   <a href="https://codeforces.com/profile/Dina.ragab">  <img src="https://cdn.iconscout.com/icon/free/png-512/free-codeforces-3628695-3029920.png" width="50"/></a>
   <a href="https://www.facebook.com/share/1BKMZVs7tg/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50"/></a>
 <a href="mailto:dinaragab982005@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50"/></a>
