@@ -2,7 +2,7 @@
 <br>
 
 - 🎓 I'm student at O6U university  
-- 🌱 I'm currently Learning Backend with .NET Core  
+- 🌱 I'm currently Learning Data Science track
 - 🚀 Currently building small practice projects  
 
 
